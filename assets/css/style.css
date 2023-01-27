@@ -1,0 +1,26 @@
+.logser {
+    width: 50%;
+    height: 90%;
+    bottom: 0;
+    right: 30px;
+    position: absolute;
+    transform: rotateY('180deg');
+}
+
+.logser img {
+    height: 70%;
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    right: 10%;
+    top: 5px;
+    transform: rotateX('20%');
+}
+
+.content {
+    height: 90%;
+}
+
+.profimg {
+    width: 10%;
+}
